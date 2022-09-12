@@ -9,7 +9,7 @@ The dataset will be released soon.
 
 
 ## ANDT
-
+We present a new baseline model, ANomaly Detection with Transformers (ANDT), which takes as input several consecutive video frames, leverages a Transformer encoder to model global context, and utilizes a decoder to predict the next frame. More specifically, ANDT treats a video as a sequence of tubelets and maps them into tubelet embeddings by linear projection. For preserving spatiotemporal information, the tubelet embeddings are added with learnable spatiotemporal position embeddings and then fed into a Transformer encoder to learn a spatiotemporal feature. The decoder is subsequently combined with the encoder for predicting the next frame based on the learned spatiotemporal representation. Our network is able to well predict an event with normal temporal dynamics and identifies an event with unpredictable temporal dynamics as an anomaly in the test phase.
 
 ## Citation
 
@@ -24,5 +24,6 @@ year={2022},
 volume={60},  
 number={},  
 pages={1-13},  
-doi={10.1109/TGRS.2022.3198130}}
+doi={10.1109/TGRS.2022.3198130}
+}
 ```
