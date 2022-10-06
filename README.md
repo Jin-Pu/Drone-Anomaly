@@ -6,7 +6,7 @@ we create a new dataset, named Drone-Anomaly, for anomaly detection in aerial vi
 
 ## Dataset
 
-The dataset is released via [OneDrive](https://tumde-my.sharepoint.com/:u:/g/personal/pu_jin_tum_de/Ec4mPTVyItxDqpSb_aHb5isBkWZ_O4jSljeLeJiK3IMbMw?e=irm2l8).
+The dataset is released via [OneDrive](https://tumde-my.sharepoint.com/personal/pu_jin_tum_de/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpu%5Fjin%5Ftum%5Fde%2FDocuments%2FDrone%2DAnomaly&ga=1).
 
 
 ## ANDT
